@@ -1,8 +1,5 @@
-### Hi 👋
 
-- 🌱 I am a college graduate looking for a job in Java backend development.
-- 👯 Hope to use programming to make people's life more convenient.
-- 😄 Looking forward to meeting you.
+
 
 <!--
 **Feyl/Feyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
